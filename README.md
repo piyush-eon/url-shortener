@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Full Stack URL Shortener with React JS, Tailwind CSS, Supabase, Shadcn UI Tutorial 🔥🔥
+## https://youtu.be/geIwBIuo-ug
+![url shortener 4](https://github.com/piyush-eon/url-shortener/assets/51760520/dc91a72a-6a96-4cbe-a58c-15c6986d3740)
